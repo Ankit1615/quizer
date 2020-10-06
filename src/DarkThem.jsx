@@ -1,8 +1,5 @@
-import React, {useState,useEffect}from 'react';
-import ReactDOM from 'react-dom';
-import {ThemeProvider,createGlobalStyle} from 'styled-components';
-import stroage from 'local-storage-fallback';
-
+import React, {useState}from 'react';
+import {createGlobalStyle} from 'styled-components';
 
 
 function DarkThem() {

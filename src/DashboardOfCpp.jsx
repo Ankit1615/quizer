@@ -31,7 +31,7 @@ export default function DashBoardForAll(props) {
                direction="row"
                 justify="center"
                 alignItems="center">
-               <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" style={{width:'110px'}}/>
+               <img alt= "c++"src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" style={{width:'110px'}}/>
             </Grid>   
                <Grid item xs={8} 
                container 

@@ -31,7 +31,7 @@ export default function DashBoardForAll(props) {
                direction="row"
                 justify="center"
                 alignItems="center">
-               <img src="https://firebasestorage.googleapis.com/v0/b/quizzer-68b5a.appspot.com/o/categories%2Fstorage%2Femulated%2F0%2FDCIM%2FScreenshots%2FIMG_20191224_175620.jpg?alt=media&token=d48cfe1d-46d0-42b8-a5d1-ae5046953f0b" style={{width:'190px'}}/>
+               <img alt="" src="https://firebasestorage.googleapis.com/v0/b/quizzer-68b5a.appspot.com/o/categories%2Fstorage%2Femulated%2F0%2FDCIM%2FScreenshots%2FIMG_20191224_175620.jpg?alt=media&token=d48cfe1d-46d0-42b8-a5d1-ae5046953f0b" style={{width:'190px'}}/>
             </Grid>   
                <Grid item xs={8} 
                container 

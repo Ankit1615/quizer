@@ -1,4 +1,4 @@
-import React, {useState,useEffect}from 'react';
+import React, {useState}from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import {
   BrowserRouter as Router,

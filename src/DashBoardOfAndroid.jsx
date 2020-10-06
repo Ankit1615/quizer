@@ -31,7 +31,7 @@ export default function DashBoardOfAndroid(props) {
                direction="row"
                 justify="center"
                 alignItems="center">
-               <img src="https://cdn.vox-cdn.com/thumbor/kL-Z76ZSmU6AUOBanezRDqSQ7us=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19086219/Android_logo_stacked__RGB_.jpg"  style={{width :'130px'}}/>
+               <img alt="" src="https://cdn.vox-cdn.com/thumbor/kL-Z76ZSmU6AUOBanezRDqSQ7us=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19086219/Android_logo_stacked__RGB_.jpg"  style={{width :'130px'}}/>
             </Grid>   
                <Grid item xs={8} 
                container 

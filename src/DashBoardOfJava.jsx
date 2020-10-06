@@ -31,7 +31,7 @@ export default function DashBoardForJava(props) {
                direction="row"
                 justify="center"
                 alignItems="center">
-               <img src="https://firebasestorage.googleapis.com/v0/b/quizzer-68b5a.appspot.com/o/categories%2Fstorage%2Femulated%2F0%2FDCIM%2FScreenshots%2FIMG_20191224_175325.jpg?alt=media&token=3012e119-7d8f-4aeb-accd-c32f93cbf7fa" style={{width :'150px'}}/>
+               <img alt="" src="https://firebasestorage.googleapis.com/v0/b/quizzer-68b5a.appspot.com/o/categories%2Fstorage%2Femulated%2F0%2FDCIM%2FScreenshots%2FIMG_20191224_175325.jpg?alt=media&token=3012e119-7d8f-4aeb-accd-c32f93cbf7fa" style={{width :'150px'}}/>
             </Grid>   
                <Grid item xs={8} 
                container 

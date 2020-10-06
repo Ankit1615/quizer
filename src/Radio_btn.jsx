@@ -37,7 +37,7 @@ function Radio_btn({set}) {
         }
         
   
-       dataList.map( (data)=> {
+       dataList.map( (data) => {
         const dataL = [];
         for(let idd in data){
           dataL.push(data[idd]);
@@ -45,7 +45,7 @@ function Radio_btn({set}) {
        
         setData(dataL)
        } );
-       setLoading(true)
+        return setLoading(true)
       })
        
       

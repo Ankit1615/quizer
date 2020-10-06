@@ -31,7 +31,7 @@ export default function DashBoardForHtml(props) {
                direction="row"
                 justify="center"
                 alignItems="center">
-               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrUsZ1cigMUOKUxCm1pGs8PDPv3fhBbQh-l1u6Qm5DCi921jg5i29CHjlpqJrEqLVnrGAX4zogmtwYq6uw5yD6Ij8nT-oiU_HErg&usqp=CAU&ec=45699844" style={{width : '120px'}}/>
+               <img alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrUsZ1cigMUOKUxCm1pGs8PDPv3fhBbQh-l1u6Qm5DCi921jg5i29CHjlpqJrEqLVnrGAX4zogmtwYq6uw5yD6Ij8nT-oiU_HErg&usqp=CAU&ec=45699844" style={{width : '120px'}}/>
             </Grid>   
                <Grid item xs={8} 
                container 
