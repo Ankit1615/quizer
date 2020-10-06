@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+
+.nav__link > a {
+    text-decoration: none;
+    color:black;
+}
+.darkMode__icon{
+    position: absolute;
+    right: 15px; 
+    cursor: pointer;
+   
+}

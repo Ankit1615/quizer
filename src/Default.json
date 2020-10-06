@@ -1,0 +1,929 @@
+{
+  "c" : {
+
+      "set1" : [
+       
+        {
+           "correctANS" : "Content provider",
+           "optionA" : "Shared Preferences",
+           "optionB" : "Content provider",
+           "optionC" : "Internal Storage",
+           "optionD" : "SQLite Databases",
+           "question" : "If you want share the data across the all applications ,you should go for?",
+           "setId" : "1"
+         },
+        {
+           "correctANS" : "All of the above",
+           "optionA" : "AlertDialog",
+           "optionB" : "ProgressDialog",
+           "optionC" : "DatePickerDialog",
+           "optionD" : "All of the above",
+           "question" : "Dialog classes in android?",
+           "setId" : "1"
+         },
+        {
+           "correctANS" : "The google API includes Google Maps and other Google-specific libraries. The Android one only includes core android libraries.",
+           "optionA" : "The google API includes Google Maps and other Google-specific libraries. The Android one only includes core android libraries.",
+           "optionB" : "The google API one only includes core android libraries. The Android includes Google Maps and other Google-specific libraries.",
+           "optionC" : "Both a&b",
+           "optionD" : "None of the above",
+           "question" : "Difference between android api and google api?",
+           "setId" : "1"
+         },
+        {
+           "correctANS" : "The emulator imitates the machine executing the binary code, rather than simulating the behaviour of the code at a higher level",
+           "optionA" : "Emulators are only used to play old SNES games, simulators are used for software development",
+           "optionB" : "The emulator is shipped with the Android SDK and third party simulators are not",
+           "optionC" : "The emulator can virtualize sensors and other hardware features, while the simulator cannot",
+           "optionD" : "The emulator imitates the machine executing the binary code, rather than simulating the behaviour of the code at a higher level",
+           "question" : "How is a simulator different from an emulator?",
+           "setId" : "1"
+         },
+         {
+           "correctANS" : "strings.xml",
+           "optionA" : "stack.xml",
+           "optionB" : "text.xml",
+           "optionC" : "strings.xml",
+           "optionD" : "string.java",
+           "question" : "The XML file that contains all the text that your application uses.",
+           "setId" : "1"
+         },
+          {
+           "correctANS" : "Dex compiler",
+           "optionA" : "Android Interpretive Compiler (AIC)",
+           "optionB" : "Dalvik Converter",
+           "optionC" : "Dex compiler",
+           "optionD" : "Mobile Interpretive Compiler (MIC)",
+           "question" : "What is the name of the program that converts Java byte code into Dalvik byte code?",
+           "setId" : "1"
+         },
+         {
+           "correctANS" : "It will update tweets periodically in the background",
+           "optionA" : "Recompile the source code",
+           "optionB" : "It will update tweets periodically in the background",
+           "optionC" : "The services will pause the app",
+           "optionD" : "Configures the user interface",
+           "question" : "What will services be used for in the Yamba project?",
+           "setId" : "1"
+         },
+         {
+           "correctANS" : "absract",
+           "optionA" : "confound",
+           "optionB" : "absract",
+           "optionC" : "modularize",
+           "optionD" : "compound",
+           "question" : "Android tries hard to _____low-level components, such as the software stack, with interfaces so that vendor-specific code can be managed easily.",
+           "setId" : "1"
+         },
+       {
+           "correctANS" : "Manifest file",
+           "optionA" : "Layout file",
+           "optionB" : "Strings XML",
+           "optionC" : "Manifest file",
+           "optionD" : "R file",
+           "question" : "What file is responsible for glueing everything together, explaining what the application consists of, what its main building blocks are, ext.…?",
+           "setId" : "1"
+         },
+         {
+           "correctANS" : "paused state",
+           "optionA" : "running state",
+           "optionB" : "stopped state",
+           "optionC" : "destroyed state",
+           "optionD" : "paused state",
+           "question" : "When the activity is not in focus, but still visible on the screen it is in?",
+           "setId" : "1"
+         }
+    
+],
+
+"set2" : [
+  {
+     "correctANS" : "Compile time error",
+     "optionA" : "Hello World! x;",
+     "optionB" : " Hello World! followed by a junk value",
+     "optionC" : "Compile time error",
+     "optionD" : "Hello World!",
+     "question" : "What will be the output of the following C code? <br> \n         #include <stdio.h>\n          int main()\n          {\n              printf(\"Hello World! %d\\n\", x);\n              return 0;\n          }",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   },
+   {
+     "correctANS" : "Compile time error",
+     "optionA" : "Compile time error",
+     "optionB" : "Hello World! 34",
+     "optionC" : "Hello World! 1000",
+     "optionD" : "Hello World! followed by a junk value",
+     "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int y = 10000;\n              int y = 34;\n              printf(\"Hello World! %d\\n\", y);\n              return 0;\n          }",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   },
+  {
+     "correctANS" : "#define PI 3.14",
+     "optionA" : "double PI = 3.14;",
+     "optionB" : "float PI = 3.14;",
+     "optionC" : "int PI = 3.14;",
+     "optionD" : "#define PI 3.14",
+     "question" : "Which of the following is not a valid variable name declaration?",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   },
+   {
+     "correctANS" : "It will run without any error and prints 3",
+     "optionA" : "It will cause a compile-time error",
+     "optionB" : "It will cause a run-time error",
+     "optionC" : "It will run without any error and prints 3",
+     "optionD" : "It will experience infinite looping",
+     "question" : "What will happen if the following C code is executed?\n          #include <stdio.h>\n          int main()\n          {\n              int main = 3;\n              printf(\"%d\", main);\n              return 0;\n          }",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   },
+   {
+     "correctANS" : "All of the mentioned",
+     "optionA" : "The variable name begins with an integer",
+     "optionB" : "The special character ‘-‘",
+     "optionC" : "The special character ‘?’",
+     "optionD" : "All of the mentioned",
+     "question" : "What is the problem in following variable declaration?\n  float 3Bedroom-Hall-Kitchen?;",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   },
+   {
+     "correctANS" : "The program will print 14",
+     "optionA" : "The program will print 12",
+     "optionB" : "The program will print 14",
+     "optionC" : "The program will have a runtime error",
+     "optionD" : "The program will cause a compile-time error due to redeclaration",
+     "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int ThisIsVariableName = 12;\n              int ThisIsVariablename = 14;\n              printf(\"%d\", ThisIsVariablename);\n              return 0;\n          }",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   },
+   {
+     "correctANS" : "volatile",
+     "optionA" : "volatile",
+     "optionB" : "true",
+     "optionC" : "friend",
+     "optionD" : "export",
+     "question" : "Which of the following cannot be a variable name in C?",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   },
+   {
+     "correctANS" : "The program will compile and print FAIL for 5 times",
+     "optionA" : "The compiler will flag an error",
+     "optionB" : "The program will compile and print the output 5",
+     "optionC" : "The program will compile and print the ASCII value of 5",
+     "optionD" : "The program will compile and print FAIL for 5 times",
+     "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int a[5] = {1, 2, 3, 4, 5};\n              int i;\n              for (i = 0; i < 5; i++)\n                  if ((char)a[i] == '5')\n                      printf(\"%d\\n\", a[i]);\n                  else\n                      printf(\"FAIL\\n\");\n          }",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   },
+   {
+     "correctANS" : "int",
+     "optionA" : "char",
+     "optionB" : "int",
+     "optionC" : "float",
+     "optionD" : "double",
+     "question" : "The format identifier ‘%i’ is also used for _____ data type.",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   },
+   {
+     "correctANS" : "unsigned short",
+     "optionA" : "signed short",
+     "optionB" : "unsigned short",
+     "optionC" : "long",
+     "optionD" : "int",
+     "question" : "Which data type is most suitable for storing a number 65000 in a 32-bit system?",
+     "setId" : "3d88c162-beb5-49d7-b75b-adad2e3ec134"
+   }
+ ],
+ "set3" : [
+  {
+    "correctANS" : "Compile time error",
+    "optionA" : "Varies",
+    "optionB" : "0",
+    "optionC" : "Junk value",
+    "optionD" : "Compile time error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          register int x;\n          void main()\n          {\n              printf(\"%d\", x);\n          }\n",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  },
+ {
+    "correctANS" : "Junk value",
+    "optionA" : "0",
+    "optionB" : "Junk value",
+    "optionC" : "Compile time error",
+    "optionD" : "Nothing",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {\n              register int x;\n              printf(\"%d\", x);\n          }",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  },
+  {
+    "correctANS" : "Segmentation fault",
+    "optionA" : "main is called once",
+    "optionB" : "main is called twice",
+    "optionC" : " main is called thrice",
+    "optionD" : "Segmentation fault",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {\n              register int x = 0;\n              if (x < 2)\n              {\n                  x++;\n                  main();\n              }\n          }\n",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  },
+  {
+    "correctANS" : "registers",
+    "optionA" : "stack",
+    "optionB" : "registers",
+    "optionC" : "heap",
+    "optionD" : "main memory",
+    "question" : "Register variables reside in ________",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  },
+   {
+    "correctANS" : "We cannot use static and register together",
+    "optionA" : "static register a;",
+    "optionB" : "register static a;",
+    "optionC" : "Both static register a; and register static a;",
+    "optionD" : "We cannot use static and register together",
+    "question" : "Which among the following is the correct syntax to declare a static variable register?",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  },
+  {
+    "correctANS" : "All of the mentioned",
+    "optionA" : "Reading the value into a register variable",
+    "optionB" : "Copy the value from a memory variable",
+    "optionC" : "Global declaration of register variable",
+    "optionD" : "All of the mentioned",
+    "question" : "Which of the following operation is not possible in a register variable?",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  },
+  {
+    "correctANS" : "It is stored in CPU",
+    "optionA" : "It is stored in CPU",
+    "optionB" : "It is stored in cache memory",
+    "optionC" : "It is stored in main memory",
+    "optionD" : "It is stored in secondary memory",
+    "question" : "When compiler accepts the request to use the variable as a register?",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  },
+   {
+    "correctANS" : "all of the mentioned",
+    "optionA" : "int",
+    "optionB" : "long",
+    "optionC" : "float",
+    "optionD" : "all of the mentioned",
+    "question" : "Which data type can be stored in register?",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  },
+ {
+    "correctANS" : "Preprocessor error",
+    "optionA" : "10 0",
+    "optionB" : "Compile time error",
+    "optionC" : "Run time error",
+    "optionD" : "Preprocessor error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          #define MIN 0\n          #ifdef(MIN)\n          #define MAX 10\n          #endif\n          int main()\n          {\n              printf(\"%d %d\\n\", MAX, MIN);\n              return 0;\n          }",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  },
+ {
+    "correctANS" : "Compile time error",
+    "optionA" : "10 0",
+    "optionB" : "Compile time error",
+    "optionC" : "Undefined behaviour",
+    "optionD" : "Somegarbagevalue 0",
+    "question" : "What will be the output of the following C code?\n           #include <stdio.h>\n          #define MIN 0\n          #if defined(MIN) - (!defined(MAX))\n          #define MAX 10\n          #endif\n          int main()\n          {\n              printf(\"%d %d\\n\", MAX, MIN);\n              return 0;\n          }\n",
+    "setId" : "41839ccc-2f27-4510-a200-36a9745e9f7a"
+  }
+],
+"set4" : [
+  {
+    "correctANS" : "Compile time error",
+    "optionA" : "10",
+    "optionB" : "Compile time error",
+    "optionC" : "Undefined behaviour",
+    "optionD" : "11",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              register static int i = 10;\n              i = 11;\n              printf(\"%d\\n\", i);\n          }\n",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  },
+  {
+    "correctANS" : "False",
+    "optionA" : "True",
+    "optionB" : "False",
+    "optionC" : "Depends on the standard",
+    "optionD" : "None of the mentioned",
+    "question" : "register keyword mandates compiler to place it in machine register.",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  },
+  {
+    "correctANS" : "Compile time error",
+    "optionA" : "Depends on whether i is actually stored in machine register",
+    "optionB" : "10 10",
+    "optionC" : "11 11",
+    "optionD" : "Compile time error",
+    "question" : "What will be the output of the following C code?\n           #include <stdio.h>\n          int main()\n          {\n              register int i = 10;\n              int *p = &i;\n              *p = 11;\n              printf(\"%d %d\\n\", i, *p);\n          }\n",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  },
+   {
+    "correctANS" : "Compile time error",
+    "optionA" : "hi",
+    "optionB" : "Compile time error",
+    "optionC" : "Nothing",
+    "optionD" : "Varies",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void m();\n          void n()\n          {\n              m();\n          }\n          void main()\n          {\n              void m()\n              {\n                  printf(\"hi\");\n              }\n          }\n",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  },
+  {
+    "correctANS" : "Compiler time error",
+    "optionA" : "2",
+    "optionB" : "Compile time error",
+    "optionC" : "Depends on the compiler",
+    "optionD" : "Depends on the standard",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void foo();\n          int main()\n          {\n              void foo(int);\n              foo();\n              return 0;\n          }\n          void foo()\n          {\n              printf(\"2 \");\n          }\n",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  },
+  {
+    "correctANS" : "2",
+    "optionA" : "2",
+    "optionB" : "Compile time error",
+    "optionC" : "Depends on the compiler",
+    "optionD" : "Depends on the standard",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void foo();\n          int main()\n          {\n              void foo(int);\n              foo(1);\n              return 0;\n          }\n          void foo(int i)\n          {\n              printf(\"2 \");\n          }\n",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  },
+  {
+    "correctANS" : "2",
+    "optionA" : "Compile time error",
+    "optionB" : "2",
+    "optionC" : "Depends on the compiler",
+    "optionD" : "Depends on the standard",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void foo();\n          int main()\n          {\n              void foo();\n              foo();\n              return 0;\n          }\n          void foo()\n          {\n              printf(\"2 \");\n          }\n",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  },
+  {
+    "correctANS" : "Depends on the compiler",
+    "optionA" : "2 2",
+    "optionB" : "2",
+    "optionC" : "Compile time error",
+    "optionD" : "Depends on the compiler",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              void foo();\n              void f()\n              {\n                  foo();\n              }\n              f();\n          }\n          void foo()\n          {\n              printf(\"2 \");\n          }\n",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  },
+  {
+    "correctANS" : "1 2",
+    "optionA" : "Compile time error as foo is local to main",
+    "optionB" : "1 2",
+    "optionC" : "2 1",
+    "optionD" : "Compile time error due to declaration of functions inside main",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              void foo(), f();\n              f();\n          }\n          void foo()\n          {\n              printf(\"2 \");\n          }\n          void f()\n          {\n              printf(\"1 \");\n              foo();\n          }\n",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  },
+  {
+    "correctANS" : "1 2",
+    "optionA" : "1 2",
+    "optionB" : "Compile time error",
+    "optionC" : "1 2 1 2",
+    "optionD" : "Depends on the compiler",
+    "question" : "What will be the output of the following C code?\n           #include <stdio.h>\n          int main()\n          {\n              void foo();\n              printf(\"1 \");\n              foo();\n          }\n          void foo()\n          {\n              printf(\"2 \");\n          }\n",
+    "setId" : "44597689-d8e5-4c7f-91d4-71e1f4d54c95"
+  }
+],
+"set5" : [
+  {
+    "correctANS" : "all of the mentioned",
+    "optionA" : "typedef int Boolean;",
+    "optionB" : "typedef enum {Mon, Tue, Wed, Thu, Fri} Workdays;",
+    "optionC" : "struct {char name[10], int age};",
+    "optionD" : "all of the mentioned",
+    "question" : "Which of the following is a User-defined data type?",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  },
+  {
+    "correctANS" : "Depends on the system/compiler",
+    "optionA" : "4 Bytes",
+    "optionB" : "8 Bytes",
+    "optionC" : "Depends on the system/compiler",
+    "optionD" : "Cannot be determined",
+    "question" : "What is the size of an int data type?",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  },
+  {
+    "correctANS" : "-128",
+    "optionA" : "-128",
+    "optionB" : "128",
+    "optionC" : "Depends on the compiler",
+    "optionD" : "None of the mentioned",
+    "question" : " What will be the output of the following C code?\n          #include  <stdio.h>\n          int main()\n          {\n             signed char chr;\n             chr = 128;\n             printf(\"%d\\n\", chr);\n             return 0;\n          }",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  },
+  {
+    "correctANS" : "Short is the qualifier and int is the basic data type",
+    "optionA" : "The basic data type of C",
+    "optionB" : "Qualifier",
+    "optionC" : "Short is the qualifier and int is the basic data type",
+    "optionD" : "All of the mentioned",
+    "question" : "What is short int in C programming?",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  },
+  {
+    "correctANS" : "not equal",
+    "optionA" : " equal",
+    "optionB" : "not equal",
+    "optionC" : "output depends on the compiler",
+    "optionD" : "error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n         int main()\n          {\n              float f1 = 0.1;\n              if (f1 == 0.1)\n                  printf(\"equal\\n\");\n              else\n                  printf(\"not equal\\n\");\n          }",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  },
+  {
+    "correctANS" : "equal",
+    "optionA" : "equal",
+    "optionB" : "output depends on compiler",
+    "optionC" : "not equal",
+    "optionD" : "error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n             float f1 = 0.1;\n              if (f1 == 0.1f)\n                 printf(\"equal\\n\");\n              else\n                  printf(\"not equal\\n\");\n          } ",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  },
+  {
+    "correctANS" : "p and q are 4 and 4",
+    "optionA" : "p and q are 4 and 4",
+    "optionB" : "p and q are 4 and 8",
+    "optionC" : "compiler error",
+    "optionD" : "p and q are 2 and 8",
+    "question" : "What will be the output of the following C code on a 32-bit machine?\n          #include <stdio.h>\n         int main()\n          {\n              int x = 10000;\n              double y = 56;\n              int *p = &x;\n              double *q = &y;\n              printf(\"p and q are %d and %d\", sizeof(p), sizeof(q));\n              return 0;\n          }",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  },
+  {
+    "correctANS" : "97.000000",
+    "optionA" : "run time error",
+    "optionB" : "a.0000000",
+    "optionC" : "97.000000",
+    "optionD" : "a",
+    "question" : "What will be the output of the following C code?\n#include <stdio.h>\nint main()\n{\nfloat x = 'a';\nprintf(\"%f\", x);\nreturn 0;\n} ",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  },
+  {
+    "correctANS" : "char < int < double",
+    "optionA" : "char > int > float",
+    "optionB" : "int > char > float",
+    "optionC" : "char < int < double",
+    "optionD" : "double > char > int",
+    "question" : "Which is correct with respect to the size of the data types?",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  },
+  {
+    "correctANS" : "4",
+    "optionA" : "8 ",
+    "optionB" : "5",
+    "optionC" : "9",
+    "optionD" : "4",
+    "question" : "What will be the output of the following C code on a 64 bit machine?\n#include <stdio.h>\nunion Sti {\n  int nu;\n   char m;     };\n int main()    {\n union Sti s;\n printf(\"%d\", sizeof(s));\n return 0;\n          }",
+    "setId" : "4b1a4cec-523f-493a-986d-136b5a3a0c71"
+  }
+],
+"set6" : [
+  {
+    "correctANS" : "Compile time error",
+    "optionA" : "2 4.000000",
+    "optionB" : "Compile time error",
+    "optionC" : "2 3.500000",
+    "optionD" : "Undefined behaviour",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 2, y = 2;\n              float f = y + x /= x / y;\n              printf(\"%d %f\\n\", x, f);\n              return 0;\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  },
+  {
+    "correctANS" : "false",
+    "optionA" : "true",
+    "optionB" : "false",
+    "optionC" : "compile time error",
+    "optionD" : "undefined behaviour",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {              int x = 1, y = 2;\n              if (x && y == 1)\n                  printf(\"true\\n\");\n              else\n                  printf(\"false\\n\");\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  },
+  {
+    "correctANS" : "1",
+    "optionA" : "0",
+    "optionB" : "Compile time error",
+    "optionC" : "1",
+    "optionD" : "Undefined behaviour",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 1, y = 2;\n              int z = x & y == 2;\n              printf(\"%d\\n\", z);\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  },
+  {
+    "correctANS" : "Floating point exception",
+    "optionA" : "1",
+    "optionB" : "Compile time error",
+    "optionC" : "Floating point exception",
+    "optionD" : "Segmentation fault",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 3, y = 2;\n              int z = x /= y %= 2;\n              printf(\"%d\\n\", z);\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  },
+  {
+    "correctANS" : "1",
+    "optionA" : "1",
+    "optionB" : "0",
+    "optionC" : "3",
+    "optionD" : "Compile time error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 3, y = 2;\n              int z = x << 1 > 5;\n              printf(\"%d\\n\", z);\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  },
+  {
+    "correctANS" : "Some garbage value",
+    "optionA" : "Increment of read-only location compile error",
+    "optionB" : "Undefined behaviour",
+    "optionC" : "4",
+    "optionD" : "Some garbage value",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 3; //, y = 2;\n              const int *p = &x;\n              *p++;\n              printf(\"%d\\n\", *p);\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  },
+  {
+    "correctANS" : "2",
+    "optionA" : "1",
+    "optionB" : "2",
+    "optionC" : "0",
+    "optionD" : "1 or 2",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {              int x = 2, y = 2;\n              int z = x ^ y & 1;\n              printf(\"%d\\n\", z);\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  },
+  {
+    "correctANS" : "Compile time error",
+    "optionA" : "0",
+    "optionB" : "1",
+    "optionC" : "Compile time error",
+    "optionD" : "2",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 2, y = 0;\n              int z = x && y = 1;\n              printf(\"%d\\n\", z);\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  },
+  {
+    "correctANS" : "2",
+    "optionA" : "-1",
+    "optionB" : "2",
+    "optionC" : "0",
+    "optionD" : "Compile time error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 0, y = 2;\n              int z = ~x & y;\n              printf(\"%d\\n\", z);\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  },
+  {
+    "correctANS" : "True",
+    "optionA" : "True",
+    "optionB" : "False",
+    "optionC" : "Compile time error",
+    "optionD" : "Undefined behaviour",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 0, y = 2;\n              if (!x && y)\n                  printf(\"true\\n\");\n              else\n                  printf(\"false\\n\");\n          }",
+    "setId" : "4ed67c54-8602-4593-bf16-1cb28927575a"
+  }
+],
+"set7" : [
+  {
+    "correctANS" : "63",
+    "optionA" : "31",
+    "optionB" : "63",
+    "optionC" : "12",
+    "optionD" : "14",
+    "question" : "C99 standard guarantees uniqueness of __________ characters for internal names.",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  },
+  {
+    "correctANS" : "31",
+    "optionA" : "6",
+    "optionB" : "31",
+    "optionC" : "12",
+    "optionD" : "14",
+    "question" : "C99 standard guarantees uniqueness of ___________ characters for external names.",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  },
+  {
+    "correctANS" : "None of the mentioned",
+    "optionA" : "int __3a;",
+    "optionB" : "int __a3;",
+    "optionC" : "int __A3;",
+    "optionD" : "None of the mentioned",
+    "question" : "Which of the following is not a valid variable name declaration?",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  },
+  {
+    "correctANS" : "int 3_a;",
+    "optionA" : "int _a3;",
+    "optionB" : "int a_3;",
+    "optionC" : "int 3_a;",
+    "optionD" : "int _3a",
+    "question" : "Which of the following is not a valid variable name declaration?",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  },
+  {
+    "correctANS" : "To avoid conflicts since library routines use such names",
+    "optionA" : "It is not standardized",
+    "optionB" : "To avoid conflicts since assemblers and loaders use such names",
+    "optionC" : "To avoid conflicts since library routines use such names",
+    "optionD" : "To avoid conflicts with environment variables of an operating system",
+    "question" : "Why do variable names beginning with the underscore is not encouraged?",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  },
+  {
+    "correctANS" : "LowerCase letters",
+    "optionA" : "LowerCase letters",
+    "optionB" : "UpperCase letters",
+    "optionC" : "CamelCase letters",
+    "optionD" : "None of the mentioned",
+    "question" : "All keywords in C are in ____________",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  },
+  {
+    "correctANS" : "Compiler and linker implementations",
+    "optionA" : "Compiler and linker implementations",
+    "optionB" : "Assemblers and loaders implementations",
+    "optionC" : "C language",
+    "optionD" : "None of the mentioned",
+    "question" : "Variable name resolution (number of significant characters for the uniqueness of variable) depends on ___________",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  },
+  {
+    "correctANS" : "int $main;",
+    "optionA" : "int number;",
+    "optionB" : "float rate;",
+    "optionC" : "int variable_count;",
+    "optionD" : "int $main;",
+    "question" : "Which of the following is not a valid C variable name?",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  },
+  {
+    "correctANS" : "Variable names cannot start with a digit",
+    "optionA" : "They can contain alphanumeric characters as well as special characters",
+    "optionB" : "It is not an error to declare a variable to be one of the keywords(like goto, static)",
+    "optionC" : "Variable names cannot start with a digit",
+    "optionD" : "Variable can be of any length",
+    "question" : "Which of the following is true for variable names in C?",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  },
+  {
+    "correctANS" : "int my_num = 100000;",
+    "optionA" : "int my_num = 100,000;",
+    "optionB" : "int my_num = 100000;",
+    "optionC" : "int my num = 1000;",
+    "optionD" : "int $my_num = 10000;",
+    "question" : "Which is valid C expression?",
+    "setId" : "51b0f703-b0af-48f0-94e9-59ed0f20ea3e"
+  }
+],
+"set8" : [
+  {
+    "correctANS" : "10 0",
+    "optionA" : "10 0",
+    "optionB" : "Compile time error",
+    "optionC" : "Undefined behaviour",
+    "optionD" : "Somegarbagevalue 0",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          #define MIN 0\n          #if defined(MIN) + defined(MAX)\n          #define MAX 10\n          #endif\n          int main()\n          {\n              printf(\"%d %d\\n\", MAX, MIN);\n              return 0;\n          }\n",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  },
+  {
+    "correctANS" : "10 0",
+    "optionA" : "10 0",
+    "optionB" : "Compile time error",
+    "optionC" : "Undefined behaviour",
+    "optionD" : "None of the mentioned",
+    "question" : "What will be the output of the following C code?\n           #include <stdio.h>\n          #define MIN 0\n          #ifdef MIN\n          #define MAX 10\n          #endif\n          int main()\n          {\n              printf(\"%d %d\\n\", MAX, MIN);\n              return 0;\n          }\n",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  },
+  {
+    "correctANS" : "Compile time error",
+    "optionA" : "10 0",
+    "optionB" : "Compile time error",
+    "optionC" : "Undefined behaviour",
+    "optionD" : "None of the mentioned",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          #define MIN 0\n          #if MIN\n          #define MAX 10\n          #endif\n          int main()\n          {\n              printf(\"%d %d\\n\", MAX, MIN);\n              return 0;\n          }\n",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  },
+  {
+    "correctANS" : "Conditionally include source text if the previous #if, #ifdef, #ifndef, or #elif test fails",
+    "optionA" : "Conditionally include source text if the previous #if, #ifdef, #ifndef, or #elif test fails",
+    "optionB" : "Conditionally include source text if a macro name is not defined",
+    "optionC" : "Conditionally include source text if a macro name is defined",
+    "optionD" : "Ending conditional text",
+    "question" : "The #else directive is used for _________",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  },
+  {
+    "correctANS" : "All of the mentioned",
+    "optionA" : "There are zero or more #elif directives",
+    "optionB" : "Zero or one #else directive",
+    "optionC" : "One matching #endif directive",
+    "optionD" : "All of the mentioned",
+    "question" : "For each #if, #ifdef, and #ifndef directive.",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  },
+  {
+    "correctANS" : "Compile time error",
+    "optionA" : "6",
+    "optionB" : "5",
+    "optionC" : "Junk value",
+    "optionD" : "Compile time error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {\n              register int x = 5;\n              m();\n              printf(\"x is %d\", x);\n          }\n          void m()\n          {\n              x++;\n          }\n",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  },
+  {
+    "correctANS" : "None of the mentioned",
+    "optionA" : "Compiler generally ignores the request",
+    "optionB" : "You cannot take the address of this variable",
+    "optionC" : "Access time to a is critical",
+    "optionD" : "None of the mentioned",
+    "question" : "Which among the following is wrong for \"register int a;\"?",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  },
+  {
+    "correctANS" : "False",
+    "optionA" : "True",
+    "optionB" : "False",
+    "optionC" : "Depends on the compiler",
+    "optionD" : "Depends on the standard",
+    "question" : "Register storage class can be specified to global variables.",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  },
+  {
+    "correctANS" : "Compile time error",
+    "optionA" : "10",
+    "optionB" : "Compile time error",
+    "optionC" : "Undefined behaviour",
+    "optionD" : "11",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              register const int i = 10;\n              i = 11;\n              printf(\"%d\\n\", i);\n          }\n",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  },
+  {
+    "correctANS" : "Compile time error",
+    "optionA" : "10",
+    "optionB" : "Compile time error",
+    "optionC" : "Undefined behaviour",
+    "optionD" : "11",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              register auto int i = 10;\n              i = 11;\n              printf(\"%d\\n\", i);\n          }\n",
+    "setId" : "524802b7-1bc3-4b60-8335-1978cbf17cf1"
+  }
+],
+"set9" : [
+  {
+    "correctANS" : "Stack overflow",
+    "optionA" : " 1 2 3 4 5",
+    "optionB" : "1 2 3 4",
+    "optionC" : "Compile time error",
+    "optionD" : "Stack overflow",
+    "question" : "What will be the output of the following C function?\n           #include <stdio.h>\n          int main()\n          {\n              reverse(1);\n          }\n          void reverse(int i)\n          {\n              if (i > 5)\n                  exit(0);\n              printf(\"%d\\n\", i);\n              return reverse(i++);\n          }",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  },
+  {
+    "correctANS" : "1 2 3 4 5",
+    "optionA" : "1 2 3 4 5",
+    "optionB" : "Segmentation fault",
+    "optionC" : "Compilation error",
+    "optionD" : "Undefined behaviour",
+    "question" : "What will be the output of the following C function?\n          #include <stdio.h>\n          void reverse(int i);\n          int main()\n          {\n              reverse(1);\n          }\n          void reverse(int i)\n          {\n              if (i > 5)\n                  return ;\n              printf(\"%d \", i);\n              return reverse((i++, i));\n          }",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  },
+  {
+    "correctANS" : "Compiler",
+    "optionA" : "Compiler",
+    "optionB" : "Associativiy of () operator",
+    "optionC" : "Precedence of () and + operator",
+    "optionD" : "Left to write of the expression",
+    "question" : "In expression i = g() + f(), first function called depends on __________",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  },
+  {
+    "correctANS" : "i and j value are undefined",
+    "optionA" : "i value is 1 and j value is 1",
+    "optionB" : "i value is 0 and j value is 0",
+    "optionC" : "i value is 1 and j value is undefined",
+    "optionD" : "i and j value are undefined",
+    "question" : "What will be the final values of i and j in the following C code?\n          #include <stdio.h>\n          int x = 0;\n          int main()\n          {\n              int i = (f() + g()) || g();\n              int j = g() || (f() + g());\n          }\n          int f()\n          {\n              if (x == 0)\n                  return x + 1;\n              else\n                  return x - 1;\n          }\n          int g()\n          {\n              return x++;\n          }",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  },
+  {
+    "correctANS" : "i value is 1 and j value is undefined",
+    "optionA" : "i value is 1 and j value is 1",
+    "optionB" : "i value is 0 and j value is 0",
+    "optionC" : "i value is 1 and j value is undefined",
+    "optionD" : "i and j value are undefined",
+    "question" : "What will be the final values of i and j in the following C code?\n          #include <stdio.h>\n          int x = 0;\n          int main()\n          {              int i = (f() + g()) | g(); \n              int j = g() | (f() + g()); \n          }\n          int f()\n          {\n              if (x == 0)\n                  return x + 1;\n              else\n                  return x - 1;\n          }\n          int g()\n          {\n              return x++;\n\n          }",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  },
+  {
+    "correctANS" : "0",
+    "optionA" : "1",
+    "optionB" : "0",
+    "optionC" : "Undefined behaviour due to order of evaluation",
+    "optionD" : "2",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 2, y = 0;\n              int z = y && (y |= 10);\n              printf(\"%d\\n\", z);\n              return 0;\n          }",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  },
+  {
+    "correctANS" : "1",
+    "optionA" : "0",
+    "optionB" : "1",
+    "optionC" : "2",
+    "optionD" : "Undefined behaviour",
+    "question" : "What will be the output of the following C code?\n           #include <stdio.h>\n          int main()\n          {\n              int x = 2, y = 0;\n              int z = (y++) ? 2 : y == 1 && x;\n              printf(\"%d\\n\", z);\n              return 0;\n          }",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  },
+  {
+    "correctANS" : "1",
+    "optionA" : "0",
+    "optionB" : "1",
+    "optionC" : "Undefined behaviour",
+    "optionD" : "Compilation error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 2, y = 0;\n              int z;\n              z = (y++, y);\n              printf(\"%d\\n\", z);\n              return 0;\n          }",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  },
+  {
+    "correctANS" : "1",
+    "optionA" : "0",
+    "optionB" : "1",
+    "optionC" : "Undefined behaviour due to order of evaluation can be different",
+    "optionD" : "Compilation error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n              int x = 2, y = 0, l;\n              int z;\n              z = y = 1, l = x && y;\n              printf(\"%d\\n\", l);\n              return 0;\n          }",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  },
+  {
+    "correctANS" : "20",
+    "optionA" : "12",
+    "optionB" : "20",
+    "optionC" : "4",
+    "optionD" : "Either 12 or 20",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          int main()\n          {\n             int y = 2;\n              int z = y +(y = 10);\n              printf(\"%d\\n\", z);\n          }",
+    "setId" : "5306d90f-632f-4546-be47-1c1d2ee7e271"
+  }
+],
+"set10" : [
+  {
+    "correctANS" : "13",
+    "optionA" : "13",
+    "optionB" : "14",
+    "optionC" : "12",
+    "optionD" : "1 6",
+    "question" : "What will be the output of the following C code?\n           #include <stdio.h>\n          void main()\n          {\n              int a = 5 * 3 + 2 - 4;\n              printf(\"%d\", a);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  },
+  {
+    "correctANS" : "6",
+    "optionA" : "7",
+    "optionB" : "6",
+    "optionC" : "10",
+    "optionD" : "9",
+    "question" : " What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {              int a = 2 + 4 + 3 * 5 / 3 - 5;\n              printf(\"%d\", a);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  },
+  {
+    "correctANS" : "-2",
+    "optionA" : "10",
+    "optionB" : "2",
+    "optionC" : "-2",
+    "optionD" : "-3",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {\n              int a = 5 * 3 % 6 - 8 + 3;\n              printf(\"%d\", a);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  },
+  {
+    "correctANS" : "14",
+    "optionA" : "Run time error",
+    "optionB" : "15",
+    "optionC" : "13",
+    "optionD" : "14",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {\n              int b = 6;\n              int c = 7;\n              int a = ++b + c--;\n              printf(\"%d\", a);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  },
+  {
+    "correctANS" : "9.000000",
+    "optionA" : "9.000000",
+    "optionB" : "9",
+    "optionC" : "9.0",
+    "optionD" : "Run time error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main(\n          {\n              double b = 8;\n              b++;\n              printf(\"%lf\", b);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  },
+  {
+    "correctANS" : "Floating point Exception",
+    "optionA" : "-2",
+    "optionB" : "1",
+    "optionC" : "0",
+    "optionD" : "Floating point Exception",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {\n              double b = 3 % 0 * 1 - 4 / 2;\n              printf(\"%lf\", b);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  },
+  {
+    "correctANS" : "2.000000",
+    "optionA" : "2",
+    "optionB" : "30",
+    "optionC" : "2.000000",
+    "optionD" : "Run time error",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {\n              double b = 5 % 3 & 4 + 5 * 6;\n              printf(\"%lf\", b);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  },
+  {
+    "correctANS" : "1.000000",
+    "optionA" : "3.000000",
+    "optionB" : "4.000000",
+    "optionC" : "5.000000",
+    "optionD" : "1.000000",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {              double b = 3 && 5 & 4 % 3;\n              printf(\"%lf\", b);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  },
+  {
+    "correctANS" : "1.000000",
+    "optionA" : "1.000000",
+    "optionB" : "0.000000",
+    "optionC" : "7.000000",
+    "optionD" : "2.000000",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {\n              double b = 5 & 3 && 4 || 5 | 6;\n              printf(\"%lf\", b);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  },
+  {
+    "correctANS" : "undefined",
+    "optionA" : "6",
+    "optionB" : "1",
+    "optionC" : "5",
+    "optionD" : "undefined",
+    "question" : "What will be the output of the following C code?\n          #include <stdio.h>\n          void main()\n          {\n              int k = 0;\n              double b = k++ + ++k + k--;\n              printf(\"%d\", k);\n          }",
+    "setId" : "5e839ff0-3f08-455f-801c-4a796d30223f"
+  }
+]
+ 
+    }
+}
